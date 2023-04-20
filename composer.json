@@ -1,7 +1,7 @@
 {
-  "name": "vijaycs85/drupal-quality-checker",
+  "name": "jozzya/drupal-quality-checker",
   "type": "project",
-  "description": "Setups code quality checking tools for Drupal project.",
+  "description": "Fork of vijaycs85/drupal-quality-checker",
   "homepage": "https://github.com/vijaycs85/drupal-quality-checker",
   "license": "MIT",
   "authors": [
